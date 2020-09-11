@@ -8,13 +8,13 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_report_view'
   s.version     = SpreeSimpleReportView.version
-  s.summary     = 'Add extension summary here'
-  s.description = 'Add (optional) extension description here'
+  s.summary     = 'Extension para ver un reporte de productos fuera de stocks'
+  s.description = 'Extension para ver un reporte de productos fuera de stocks'
   s.required_ruby_version = '>= 2.2.7'
 
-  s.author    = 'You'
-  s.email     = 'you@example.com'
-  s.homepage  = 'https://github.com/your-github-handle/spree_simple_report_view'
+  s.author    = 'Rairomero'
+  s.email     = 'rromero@acid.cl'
+  s.homepage  = 'https://github.com/Rairomero/spree_simple_report_view'
   s.license = 'BSD-3-Clause'
 
   # s.files       = `git ls-files`.split("\n").reject { |f| f.match(/^spec/) && !f.match(/^spec\/fixtures/) }
